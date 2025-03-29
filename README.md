@@ -1,7 +1,5 @@
 # LucidLand
 
-This repository provides a complete pipeline for generating and visualizing 3D models from single images using Lucid Dreamer Gaussian and 4DGen.
-
 ## Project Workflow
 
 Follow these steps to run the entire pipeline:
@@ -50,6 +48,6 @@ Upload the generated `.ply` files to the online viewer:
 
 ## Requirements
 
-Ensure you have Python 3.12 installed. Specific dependencies are handled during the installation step.
+Ensure you have Python 3.12 installed. Specific dependencies are handled during the installation step. We test that our H100 device need to run 30 mins and more.
 
 
