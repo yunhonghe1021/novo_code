@@ -1,4 +1,4 @@
-# LucidLand
+# 3D4D
 
 ## Project Workflow
 
@@ -44,7 +44,13 @@ This will generate a series of `.ply` files for visualization.
 
 Upload the generated `.ply` files to the online viewer:
 
-- [SuperSpl.at Editor](https://superspl.at/editor)
+```bash
+cd ../supersplat
+npm install
+npm run develop
+```
+
+Navigate to ```http://localhost:3000```
 
 ## Requirements
 
