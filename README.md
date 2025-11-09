@@ -1,6 +1,6 @@
 # 3D4D: An Interactive, Editable, 4D World Model via 3D Video Generation
 
-3D4D is an interactive 4D visualization framework that integrates WebGL with Supersplat rendering. It transforms static images and text into coherent 4D scenes through four core modules and employs a foveated rendering strategy for efficient, real-time multi-modal interaction.
+3D4D is an interactive 4D visualization framework that integrates WebGL with Supersplat rendering. It transforms static images and text into 4D scenes through four core modules and employs a foveated rendering strategy for efficient, real-time multi-modal interaction.
 
 
 ## Project Workflow
