@@ -1,11 +1,5 @@
 # 3D4D: An Interactive, Editable, 4D World Model via 3D Video Generation
 
-**Yunhong He<sup>\*</sup><sup>†</sup>, Zhengqing Yuan<sup>2,\*</sup>, Zhengzhong Tu<sup>3</sup>, Yanfang Ye<sup>2</sup>, Lichao Sun<sup>1</sup>**
-
-<sup>1</sup>Lehigh University, <sup>2</sup>University of Notre Dame, <sup>3</sup>Texas A&M University  
-
-\* Equal contribution  
-† Yunhong He is an independent undergraduate student, remotely working with Lichao Sun.
 
 
 
